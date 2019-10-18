@@ -18,6 +18,7 @@ public class threadUtils implements Runnable{
 			replicaMensagem();
 		} catch (Exception e) {
 			e.printStackTrace();
+			
 		}
 	}
 }
